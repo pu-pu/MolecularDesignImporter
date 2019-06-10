@@ -1,0 +1,7 @@
+{
+  "minRadius": 4,
+  "maxRadius": 16,
+  "upperThreshold": 100,
+  "threshold": 10,
+  "dp": 0.98
+}

@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.upload-preview {
+  display: flex;
+  flex-direction: column;
+  max-width: 450px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.upload-preview-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: strong;
+  padding-bottom: 4px;
+}
+
+.upload-component {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.upload-dropzone {
+  width: 800px;
+  height: 500px;
+  
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  font-size: 36px;
+
+  transition: 0.3s;
+}
+
+.upload-dropzone:hover {
+  border-color: cornflowerblue;
+  color: blue;
+
+  cursor: pointer;
+}
+
+.structure-editor {
+  display: flex;
+}

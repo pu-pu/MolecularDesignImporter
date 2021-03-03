@@ -1,0 +1,13 @@
+com\example\importer\entities\FileDownloadRequest.class
+com\example\importer\entities\AtomExclusionRequest.class
+com\example\importer\services\ComputationService.class
+com\example\importer\entities\ImageUploadResponse.class
+com\example\importer\services\FileService.class
+com\example\importer\services\ImageProcessingService.class
+com\example\importer\controllers\ImportController.class
+com\example\importer\entities\Box.class
+com\example\importer\ImporterApplication.class
+com\example\importer\entities\Atom.class
+com\example\importer\entities\Line.class
+com\example\importer\entities\Corner.class
+com\example\importer\entities\AtomExclusionResponse.class

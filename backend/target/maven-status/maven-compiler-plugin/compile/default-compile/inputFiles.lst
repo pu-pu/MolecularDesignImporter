@@ -1,0 +1,13 @@
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\controllers\ImportController.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\services\ComputationService.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\FileDownloadRequest.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\AtomExclusionResponse.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\ImporterApplication.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\services\ImageProcessingService.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\Atom.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\Corner.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\Box.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\Line.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\services\FileService.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\ImageUploadResponse.java
+C:\Users\abhig\Desktop\MDI\MolecularDesignImporter\backend\src\main\java\com\example\importer\entities\AtomExclusionRequest.java

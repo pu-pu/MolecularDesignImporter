@@ -79,6 +79,7 @@ class StructureEditorComponent extends Component {
         return () => {}; // no-op
       case (EditorModes.DELETE):
         return (id) => this.props.deleteAtom(id);
+      default:
     }
   }
 
@@ -94,7 +95,7 @@ class StructureEditorComponent extends Component {
 
   getBoxLines() {
     const { structureData } = this.props;
-    const { box, atoms } = structureData;
+    const { box } = structureData;
 
     box.corners.forEach(corner => {
       // atoms.forEach(atom => {

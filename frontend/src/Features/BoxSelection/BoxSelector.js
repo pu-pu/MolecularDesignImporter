@@ -13,7 +13,7 @@ class BoxSelector extends Component {
     }
 
     componentDidMount() {
-        const { tempFile } = this.props;
+        const tempFile = this.props;
 
         const image = new window.Image();
         image.src = tempFile.preview;
